@@ -1,0 +1,11 @@
+{
+	"id": "Chevereto-plugin",
+	"name": "Chevereto Uploader",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Upload the clipboard picture to chevereto when pasted to Obsidian",
+	"author": "boluo&&hongyan",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
